@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Static Website</title>
+  </head>
+  <body>
+    <h1>This Is Me</h1>
+    <p>
+      Hello, I'm Myles and I'm making human-generated art for 360 days as a luddite reaction against AGI
+    </p>
+  </body>
+</html>
