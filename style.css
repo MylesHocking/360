@@ -1,0 +1,19 @@
+@import url(https://fonts.googleapis.com/css?family=Economica:400,700);
+
+body {
+  background: #c0392b;
+  font-family: 'Economica', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  -webkit-backface-visibility: hidden;
+}
+
+#circle {
+  width: 720px;
+  height: 720px;
+  border-radius: 360px;
+  border: 2px solid #fff;
+  position: absolute;
+  top: 100px;
+  left: 100px;
+}
